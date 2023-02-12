@@ -2,7 +2,7 @@
 
 
 Simple AHK script that automaticly hit crystal by clicking bind.
-*This one only works for lunar client*
+*This one only works for lunar client.*
 
 GUI:
 
